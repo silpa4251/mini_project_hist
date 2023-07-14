@@ -1,0 +1,180 @@
+body{
+    background-image: url("https://wallpapercave.com/wp/wp9744435.jpg");
+    background-repeat: repeat;
+    background-size: cover;
+    filter: blur(0.2);
+    
+
+
+}
+.maindiv{
+    display: flex;
+    flex-direction: row;
+    /*grid-template-areas: 'b1  c1  d1'
+            'e1  f1  g1'
+            'h1  i1  j1';
+            grid-template-areas: 'b1 c1 d1 e1 f1 h1 i1 j1 ';*/
+    text-align: center;
+    
+    background-repeat: repeat;
+    background-size: cover;
+    font-size: 20px;padding: 20px;
+    border-radius: 5px;
+    padding: 20px;
+}
+
+header{
+    color: rgba(255, 0, 0, 0.705);
+    text-shadow: 2px 2px rgb(0, 0, 0);
+    position: fixed;
+    font-size: 45px;
+    font-weight: bold;
+    text-align: center;
+    left: 430px;
+    top: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background: -webkit-linear-gradient(rgba(218, 73, 33, 0.821),#fffffff2,rgba(25, 98, 64, 0.841));
+    -webkit-text-fill-color: transparent;
+    border-radius: 10px;
+
+
+}
+footer{
+    color: rgb(126, 21, 21);
+    text-shadow: 1px 1px black;
+    position: fixed;
+    font-size: 30px;
+    left: 550px;
+    bottom: 0px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background: -webkit-radial-gradient(rgb(194, 164, 109),rgba(245, 222, 179, 0.822), rgba(174, 23, 23, 0.456));
+    -webkit-text-fill-color: transparent;
+    border-radius: 7px;
+    
+}
+#b{
+    background: -webkit-radial-gradient(rgb(194, 164, 109),rgba(245, 222, 179, 0.822), rgba(174, 23, 23, 0.456));
+    -webkit-text-fill-color: transparent;
+    padding: 20px;
+    margin-top: 100px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 20px black;
+    text-shadow: 1px 1px black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}  
+#c{
+    background: -webkit-radial-gradient(rgb(194, 164, 109),rgba(245, 222, 179, 0.822), rgba(174, 23, 23, 0.456));
+    -webkit-text-fill-color: transparent;
+    padding: 20px;
+    margin-top: 100px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 20px black;
+    text-shadow: 1px 1px black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+} 
+ #d{
+    background: -webkit-radial-gradient(rgb(194, 164, 109),rgba(245, 222, 179, 0.822), rgba(174, 23, 23, 0.456));
+    -webkit-text-fill-color: transparent;
+    padding: 20px;
+    margin-top: 100px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 20px black;
+    text-shadow: 1px 1px black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+} 
+ #e{
+    background: -webkit-radial-gradient(rgb(194, 164, 109),rgba(245, 222, 179, 0.822), rgba(174, 23, 23, 0.456));
+    -webkit-text-fill-color: transparent;
+    padding: 20px;
+    margin-top: 100px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 20px black;
+    text-shadow: 1px 1px black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}  
+#f{
+    background: -webkit-radial-gradient(rgb(194, 164, 109),rgba(245, 222, 179, 0.822), rgba(174, 23, 23, 0.456));
+    -webkit-text-fill-color: transparent;
+    padding: 20px;
+    margin-top: 100px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 20px black;
+    text-shadow: 1px 1px black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}  
+#g{
+    background: -webkit-radial-gradient(rgb(194, 164, 109),rgba(245, 222, 179, 0.822), rgba(174, 23, 23, 0.456));
+    -webkit-text-fill-color: transparent;
+    padding: 20px;
+    margin-top: 100px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 20px black;
+    text-shadow: 1px 1px black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}  
+#h{
+    background: -webkit-radial-gradient(rgb(194, 164, 109),rgba(245, 222, 179, 0.822), rgba(174, 23, 23, 0.456));
+    -webkit-text-fill-color: transparent;
+    padding: 20px;
+    margin-top: 100px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 20px black;
+    text-shadow: 1px 1px black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}  
+#i{
+    background: -webkit-radial-gradient(rgb(194, 164, 109),rgba(245, 222, 179, 0.822), rgba(174, 23, 23, 0.456));
+    -webkit-text-fill-color: transparent;
+    padding: 20px;
+    margin-top: 100px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 20px black;
+    text-shadow: 1px 1px black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}  
+#j{
+    background: -webkit-radial-gradient(rgb(194, 164, 109),rgba(245, 222, 179, 0.822), rgba(174, 23, 23, 0.456));
+    -webkit-text-fill-color: transparent;
+    padding: 20px;
+    margin-top: 100px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 20px black;
+    text-shadow: 1px 1px black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+} 
+
+
+#image{
+    width: 300px;
+    height: 300px;
+    border-radius: 17px;
+    
+} 
